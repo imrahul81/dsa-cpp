@@ -1,0 +1,24 @@
+# C++ build artifacts
+a.out
+*.out
+*.o
+*.obj
+*.a
+
+# Executable files
+*.exe
+*.app
+
+# Debug symbols (macOS)
+*.dSYM/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
